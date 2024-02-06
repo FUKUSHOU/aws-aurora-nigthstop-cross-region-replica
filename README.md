@@ -1,0 +1,1 @@
+# aws-aurora-nigthstop-cross-region-replica
